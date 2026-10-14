@@ -10,11 +10,11 @@ An interactive **Power BI dashboard** that monitors the financial and operationa
 
 | Home | Overview |
 |------|----------|
-| ![Home](images/home.png) | ![Overview](images/overview.png) |
+| ![Home](./Uber/Home.png) | ![Overview](./Uber/overview.png) |
 
 | Rides | Cancelled |
 |-------|-----------|
-| ![Rides](images/rides.png) | ![Cancelled](images/cancelled.png) |
+| ![Rides](./Uber/Rides.png) | ![Cancelled](./Uber/Cancelled.png) |
 
 ---
 
